@@ -1,1 +1,1 @@
-# FoodMunch
+FoodMunch is a modern, responsive restaurant website built with HTML and CSS. It features a vibrant menu, attractive banners, and organized sections for offers, testimonials, and contact details. Fully mobile-friendly, FoodMunch is ideal for restaurants seeking a strong and inviting online presence.😋🤗
